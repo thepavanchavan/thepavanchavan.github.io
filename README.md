@@ -1,3 +1,6 @@
+## About
+I have over 2 years of experience as a software engineer, and I focus on creating excellent online applications utilising the Angular framework. I have a strong interest for writing scalable, maintainable technology that provides excellent user experience. My areas of expertise include integrating intricate business logic, creating responsive user interface components, and performance optimisation. I would love to connect with you if you're searching for a talented software engineer with experience in frontend development and a passion for providing top-notch solutions.
+
 ## Experience
 ### Iauro System Pvt. Ltd, Pune                           
 Jan 2021 - Present  

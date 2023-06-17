@@ -1,4 +1,4 @@
-## EXPERIENCE
+## Experience
 ### Iauro System Pvt. Ltd, Pune                           
 Jan 2021 - Present  
 **Software Engineer (Frontend Developer)**  

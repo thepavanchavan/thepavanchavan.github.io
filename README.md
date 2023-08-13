@@ -3,20 +3,14 @@ Hey there! I'm Frontend Developer based in Pune (India). I have over 2 years of 
 
 ## Experience
 ### Iauro System Pvt. Ltd, Pune                           
-Jan 2021 - Present  
+Jan 2021 - Aug 2023  
 **Software Engineer (Frontend Developer)**  
-*April 2022 - Present*  
+*July 2021 - Aug 2023*  
 - Worked as a **frontend developer**, responsible for developing UI and integration of backend APIs.
 - Experienced with the **Agile** software development life cycle. Participated in scrum calls, sprint grooming calls, and sprint retrospective calls.
 - Worked on technical **R&D**s, investigations, implementations, and contributed to the organization's internal assets.
 - Performed **bug fixes** and code complexity reductions to optimize the platform.
-- Tech stack: Angular, HTML, CSS, TypeScript
-
-**Software Associate (Frontend Developer)**  
-*July 2021 - Apr 2022*  
-- Front-end developer responsible for creating user interfaces and integrating back-end APIs.
-- Improved the platform by fixing bugs and simplifying the code.
-- Tech stack: Angular, HTML, CSS, TypeScript
+- Tech stack: Angular, HTML, CSS, TypeScript.
 
 **Software Intern (Frontend Developer)**  
 *Jan 2021 - June 2021*  
@@ -39,7 +33,6 @@ Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded, Mahara
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
 <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" style="margin:2px;"/>
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" style="margin:2px;"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="margin:2px;"/>
 <img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="margin:2px;"/>
 
 ## Projects

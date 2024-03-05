@@ -1,7 +1,16 @@
 ## About
-Hey there! I'm Frontend Developer based in Pune (India). I have over 2 years of experience as a software engineer, and I focus on creating excellent online applications utilising the Angular framework. I have a strong interest for writing scalable, maintainable technology that provides excellent user experience. My areas of expertise include integrating intricate business logic, creating responsive user interface components, and performance optimisation. I would love to connect with you if you're searching for a talented software engineer with experience in frontend development and a passion for providing top-notch solutions.
+Hey there! I'm Frontend Developer based in Pune (India). I have 3 years of experience as a software engineer, and I focus on creating excellent online applications utilising the Angular framework. I have a strong interest for writing scalable, maintainable technology that provides excellent user experience. My areas of expertise include integrating intricate business logic, creating responsive user interface components, and performance optimisation. I would love to connect with you if you're searching for a talented software engineer with experience in frontend development and a passion for providing top-notch solutions.
 
 ## Experience
+### Delcaper Technologies Pvt Ltd, Pune                           
+Oct 2023 - Present  
+**Senior Software Engineer**  
+- Orchestrated the development of Innofulfill, an integrated platform interfacing with multiple ecommerce and hyperlocal APIs for optimized mass delivery logistics.
+- Engineered and deployed features for order processing, fulfillment center discovery mechanisms, route optimization, and real-time push notifications.
+- Implemented front-end optimizations for Innofulfill, ensuring an intuitive user interface and contributing to the reduction of delivery costs through performance enhancements.
+- Collaborated cross-functionally, leading requirements gathering and contributing to innovative solutions for intricate challenges in the mass delivery domain.
+- Played an integral role in the continuous improvement of the platform, incorporating user feedback to enhance UI/UX, functionality, and overall system performance.
+- Tech stack: Angular, HTML, SCSS, TypeScript, Grafana, June.so.
 ### Iauro System Pvt. Ltd, Pune                           
 Jan 2021 - Aug 2023  
 **Software Engineer (Frontend Developer)**  

@@ -11,8 +11,8 @@ Oct 2023 - Present
 - Collaborated cross-functionally, leading requirements gathering and contributing to innovative solutions for intricate challenges in the mass delivery domain.
 - Played an integral role in the continuous improvement of the platform, incorporating user feedback to enhance UI/UX, functionality, and overall system performance.
 - Tech stack: Angular, HTML, SCSS, TypeScript, Grafana, June.so.
+  
 ### Iauro System Pvt. Ltd, Pune                           
-Jan 2021 - Aug 2023  
 **Software Engineer (Frontend Developer)**  
 *July 2021 - Aug 2023*  
 - Worked as a **frontend developer**, responsible for developing UI and integration of backend APIs.
